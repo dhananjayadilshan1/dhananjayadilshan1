@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhananjaya2001dilshan@gmail.com**
 
-- <!--- stats & Trophy (start) -->
+ <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
